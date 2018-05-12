@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37520
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Cooke_Middleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35191#Some-notes-on-the-bibliography-of-the-Philippines
 gutenberg_issued: '2011-02-07'
 gutenberg_type: Text
 identifiers:
